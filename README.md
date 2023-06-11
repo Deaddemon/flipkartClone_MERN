@@ -1,7 +1,12 @@
 # flipkartClone_MERN
 
-### Link
+### Demo
 https://flipkartclone-mern-frontend.onrender.com/
+
+
+
+https://github.com/Deaddemon/flipkartClone_MERN/assets/77224604/f348917e-8707-4b5b-bc40-c3396bc5061e
+
 
 ### Features
 1. Closely related UI
