@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://flipkartclone-mern-backend.onrender.com/';
+const url = 'https://flipkartclone-mern-backend.onrender.com';
 
 export const authenticateLogin = async (user) => {
     try {
