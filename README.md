@@ -44,3 +44,7 @@ Your frontend is running on
 ```
 http://localhost:3000/
 ```
+
+
+![image](https://github.com/Deaddemon/flipkartClone_MERN/assets/77224604/cc8f83b3-cc72-4bd4-82b6-66f379f1f00e)
+
